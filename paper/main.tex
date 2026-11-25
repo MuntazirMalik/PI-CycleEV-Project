@@ -430,7 +430,7 @@ Our results support a narrow claim and contradict a broad one. Physics-informed 
 We built an unpaired, physics-informed CycleGAN for summer--winter EV driving data and evaluated it against a reproduced paired baseline and a standard CycleGAN. The physics terms enforce what they encode, but they did not make the generated data more realistic, and they can be satisfied by oscillating windows whose mean current and endpoint SOC change are close to zero. The same model gave a downstream gain in one direction and none in the other, within the seed variance. Future work should add a magnitude-aware physics term or conditioning on window-level statistics, train for far longer, use several seeds, and test with a classifier-based realism measure.
 
 \section*{Declaration of AI Use}
-An AI assistant (Claude, Anthropic) was used for coding help, debugging and wording. All experiments were run by the authors and all reported numbers come from the saved outputs of those runs. [Confirm before submission.]
+An AI assistant (Claude, Anthropic) was used for coding help and debugging, for analysing the saved results, and for drafting and editing the text of this paper, the figures built from the results, the diagrams and the slides. All experiments were run by the authors on Google Colab, and every number, table and figure in the paper comes from the saved outputs of those runs. The authors reviewed the final text and take responsibility for its content.
 
 \begin{thebibliography}{00}
 \bibitem{jeng2025} S.-L. Jeng, ``Generative adversarial network for synthesizing multivariate time-series data in electric vehicle driving scenarios,'' \emph{Sensors}, vol. 25, no. 3, Art. no. 749, 2025.
