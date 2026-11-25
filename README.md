@@ -61,7 +61,7 @@ Baseline: about 44 minutes for 50 epochs on a Colab GPU. CycleGAN runs: 100 epoc
 `models/` holds 11 generator weight files (about 635 MB). GitHub rejects single files over 100 MB, so the baseline weights (`ts_p2pgan_G_full.weights.h5`, 244 MB) are not stored in the repository: [add the shared-folder link here]. The CycleGAN weights are 42 MB each.
 
 ## Declaration of AI use
-An AI assistant (Claude, Anthropic) was used for coding help and debugging, for analysing the saved results. All experiments were run by the authors on Google Colab, and every number, table and figure in the paper comes from the saved outputs of those runs. The authors reviewed the final text and take responsibility for its content.
+An AI assistant (Claude, Anthropic) was used for coding help, debugging and analysing the saved results. All experiments were run by the authors on Google Colab, and every number, table and figure in the paper comes from the saved outputs of those runs. The authors reviewed the final text and take responsibility for its content.
 
 ## Repository
 https://github.com/MuntazirMalik/PI-CycleEV-Project
