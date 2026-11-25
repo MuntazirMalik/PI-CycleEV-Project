@@ -1,0 +1,537 @@
+experiment,direction,channel,metric,value,mode
+E2 CycleGAN (no physics),cycle_summer,soc,level_L1_%,13.322075843811035,full
+E2 CycleGAN (no physics),cycle_summer,soc,shape_L1_%,1.9770095348358154,full
+E2 CycleGAN (no physics),cycle_summer,soc,flat_ref_shape_L1_%,0.8180769085884094,full
+E2 CycleGAN (no physics),cycle_summer,voltage,level_L1_%,7.8508758544921875,full
+E2 CycleGAN (no physics),cycle_summer,voltage,shape_L1_%,2.4019112586975098,full
+E2 CycleGAN (no physics),cycle_summer,voltage,flat_ref_shape_L1_%,2.6446502208709717,full
+E2 CycleGAN (no physics),cycle_summer,torque,level_L1_%,1.3830493688583374,full
+E2 CycleGAN (no physics),cycle_summer,torque,shape_L1_%,5.826398849487305,full
+E2 CycleGAN (no physics),cycle_summer,torque,flat_ref_shape_L1_%,7.335212230682373,full
+E2 CycleGAN (no physics),cycle_summer,accel,level_L1_%,2.565823793411255,full
+E2 CycleGAN (no physics),cycle_summer,accel,shape_L1_%,5.158108234405518,full
+E2 CycleGAN (no physics),cycle_summer,accel,flat_ref_shape_L1_%,6.198882102966309,full
+E2 CycleGAN (no physics),cycle_summer,soc,RMSE_%,19.35616683959961,full
+E2 CycleGAN (no physics),cycle_summer,soc,MAE_%,13.54052448272705,full
+E2 CycleGAN (no physics),cycle_summer,soc,DTW_%,13.796379976795608,full
+E2 CycleGAN (no physics),cycle_summer,voltage,RMSE_%,11.970084190368652,full
+E2 CycleGAN (no physics),cycle_summer,voltage,MAE_%,8.41157054901123,full
+E2 CycleGAN (no physics),cycle_summer,voltage,DTW_%,6.676615061047615,full
+E2 CycleGAN (no physics),cycle_summer,torque,RMSE_%,8.704339981079102,full
+E2 CycleGAN (no physics),cycle_summer,torque,MAE_%,6.036141395568848,full
+E2 CycleGAN (no physics),cycle_summer,torque,DTW_%,5.963576568254961,full
+E2 CycleGAN (no physics),cycle_summer,accel,RMSE_%,8.130550384521484,full
+E2 CycleGAN (no physics),cycle_summer,accel,MAE_%,5.772159099578857,full
+E2 CycleGAN (no physics),cycle_summer,accel,DTW_%,5.535078284728732,full
+E2 CycleGAN (no physics),cycle_summer,all14,RMSE_%,14.608658790588379,full
+E2 CycleGAN (no physics),cycle_summer,all14,MAE_%,9.142313957214355,full
+E2 CycleGAN (no physics),cycle_winter,soc,level_L1_%,20.26934242248535,full
+E2 CycleGAN (no physics),cycle_winter,soc,shape_L1_%,2.2992844581604004,full
+E2 CycleGAN (no physics),cycle_winter,soc,flat_ref_shape_L1_%,1.0679054260253906,full
+E2 CycleGAN (no physics),cycle_winter,voltage,level_L1_%,10.288429260253906,full
+E2 CycleGAN (no physics),cycle_winter,voltage,shape_L1_%,4.104161262512207,full
+E2 CycleGAN (no physics),cycle_winter,voltage,flat_ref_shape_L1_%,5.109511852264404,full
+E2 CycleGAN (no physics),cycle_winter,torque,level_L1_%,1.1307562589645386,full
+E2 CycleGAN (no physics),cycle_winter,torque,shape_L1_%,4.763288974761963,full
+E2 CycleGAN (no physics),cycle_winter,torque,flat_ref_shape_L1_%,7.98747444152832,full
+E2 CycleGAN (no physics),cycle_winter,accel,level_L1_%,1.0597513914108276,full
+E2 CycleGAN (no physics),cycle_winter,accel,shape_L1_%,4.098774433135986,full
+E2 CycleGAN (no physics),cycle_winter,accel,flat_ref_shape_L1_%,6.454221725463867,full
+E2 CycleGAN (no physics),cycle_winter,soc,RMSE_%,25.767303466796875,full
+E2 CycleGAN (no physics),cycle_winter,soc,MAE_%,20.416996002197266,full
+E2 CycleGAN (no physics),cycle_winter,soc,DTW_%,20.27474776040877,full
+E2 CycleGAN (no physics),cycle_winter,voltage,RMSE_%,15.061691284179688,full
+E2 CycleGAN (no physics),cycle_winter,voltage,MAE_%,11.393198013305664,full
+E2 CycleGAN (no physics),cycle_winter,voltage,DTW_%,8.234939740516738,full
+E2 CycleGAN (no physics),cycle_winter,torque,RMSE_%,7.3194732666015625,full
+E2 CycleGAN (no physics),cycle_winter,torque,MAE_%,4.902576446533203,full
+E2 CycleGAN (no physics),cycle_winter,torque,DTW_%,5.224222225497562,full
+E2 CycleGAN (no physics),cycle_winter,accel,RMSE_%,6.264360427856445,full
+E2 CycleGAN (no physics),cycle_winter,accel,MAE_%,4.245030403137207,full
+E2 CycleGAN (no physics),cycle_winter,accel,DTW_%,4.514658063542451,full
+E2 CycleGAN (no physics),cycle_winter,all14,RMSE_%,10.782805442810059,full
+E2 CycleGAN (no physics),cycle_winter,all14,MAE_%,6.470691204071045,full
+E2 CycleGAN (no physics),identity_summer,soc,level_L1_%,13.443212509155273,full
+E2 CycleGAN (no physics),identity_summer,soc,shape_L1_%,1.8628451824188232,full
+E2 CycleGAN (no physics),identity_summer,soc,flat_ref_shape_L1_%,0.8180769085884094,full
+E2 CycleGAN (no physics),identity_summer,voltage,level_L1_%,8.21583366394043,full
+E2 CycleGAN (no physics),identity_summer,voltage,shape_L1_%,1.8845254182815552,full
+E2 CycleGAN (no physics),identity_summer,voltage,flat_ref_shape_L1_%,2.6446502208709717,full
+E2 CycleGAN (no physics),identity_summer,torque,level_L1_%,1.3370507955551147,full
+E2 CycleGAN (no physics),identity_summer,torque,shape_L1_%,4.155994415283203,full
+E2 CycleGAN (no physics),identity_summer,torque,flat_ref_shape_L1_%,7.335212230682373,full
+E2 CycleGAN (no physics),identity_summer,accel,level_L1_%,2.0198397636413574,full
+E2 CycleGAN (no physics),identity_summer,accel,shape_L1_%,3.7950687408447266,full
+E2 CycleGAN (no physics),identity_summer,accel,flat_ref_shape_L1_%,6.198882102966309,full
+E2 CycleGAN (no physics),identity_summer,soc,RMSE_%,19.74331283569336,full
+E2 CycleGAN (no physics),identity_summer,soc,MAE_%,13.646614074707031,full
+E2 CycleGAN (no physics),identity_summer,soc,DTW_%,13.523125171849173,full
+E2 CycleGAN (no physics),identity_summer,voltage,RMSE_%,12.156522750854492,full
+E2 CycleGAN (no physics),identity_summer,voltage,MAE_%,8.5596923828125,full
+E2 CycleGAN (no physics),identity_summer,voltage,DTW_%,6.548038326564208,full
+E2 CycleGAN (no physics),identity_summer,torque,RMSE_%,6.465488433837891,full
+E2 CycleGAN (no physics),identity_summer,torque,MAE_%,4.410755634307861,full
+E2 CycleGAN (no physics),identity_summer,torque,DTW_%,4.817367956439248,full
+E2 CycleGAN (no physics),identity_summer,accel,RMSE_%,6.228306293487549,full
+E2 CycleGAN (no physics),identity_summer,accel,MAE_%,4.341868877410889,full
+E2 CycleGAN (no physics),identity_summer,accel,DTW_%,4.519241614576874,full
+E2 CycleGAN (no physics),identity_summer,all14,RMSE_%,13.838804244995117,full
+E2 CycleGAN (no physics),identity_summer,all14,MAE_%,8.324403762817383,full
+E2 CycleGAN (no physics),identity_winter,soc,level_L1_%,20.10381317138672,full
+E2 CycleGAN (no physics),identity_winter,soc,shape_L1_%,2.275782585144043,full
+E2 CycleGAN (no physics),identity_winter,soc,flat_ref_shape_L1_%,1.0679054260253906,full
+E2 CycleGAN (no physics),identity_winter,voltage,level_L1_%,9.79965591430664,full
+E2 CycleGAN (no physics),identity_winter,voltage,shape_L1_%,3.3842742443084717,full
+E2 CycleGAN (no physics),identity_winter,voltage,flat_ref_shape_L1_%,5.109511852264404,full
+E2 CycleGAN (no physics),identity_winter,torque,level_L1_%,1.1628865003585815,full
+E2 CycleGAN (no physics),identity_winter,torque,shape_L1_%,3.8581862449645996,full
+E2 CycleGAN (no physics),identity_winter,torque,flat_ref_shape_L1_%,7.98747444152832,full
+E2 CycleGAN (no physics),identity_winter,accel,level_L1_%,1.1273059844970703,full
+E2 CycleGAN (no physics),identity_winter,accel,shape_L1_%,3.3598825931549072,full
+E2 CycleGAN (no physics),identity_winter,accel,flat_ref_shape_L1_%,6.454221725463867,full
+E2 CycleGAN (no physics),identity_winter,soc,RMSE_%,25.49502944946289,full
+E2 CycleGAN (no physics),identity_winter,soc,MAE_%,20.24062156677246,full
+E2 CycleGAN (no physics),identity_winter,soc,DTW_%,20.12818728822601,full
+E2 CycleGAN (no physics),identity_winter,voltage,RMSE_%,14.157917976379395,full
+E2 CycleGAN (no physics),identity_winter,voltage,MAE_%,10.540238380432129,full
+E2 CycleGAN (no physics),identity_winter,voltage,DTW_%,7.73494699551741,full
+E2 CycleGAN (no physics),identity_winter,torque,RMSE_%,6.125718593597412,full
+E2 CycleGAN (no physics),identity_winter,torque,MAE_%,4.004101276397705,full
+E2 CycleGAN (no physics),identity_winter,torque,DTW_%,4.685495105419701,full
+E2 CycleGAN (no physics),identity_winter,accel,RMSE_%,5.3297576904296875,full
+E2 CycleGAN (no physics),identity_winter,accel,MAE_%,3.5490434169769287,full
+E2 CycleGAN (no physics),identity_winter,accel,DTW_%,4.069164490750087,full
+E2 CycleGAN (no physics),identity_winter,all14,RMSE_%,10.29690933227539,full
+E2 CycleGAN (no physics),identity_winter,all14,MAE_%,6.03936767578125,full
+E3 PI-CycleEV,cycle_summer,soc,level_L1_%,18.177026748657227,full
+E3 PI-CycleEV,cycle_summer,soc,shape_L1_%,2.5189850330352783,full
+E3 PI-CycleEV,cycle_summer,soc,flat_ref_shape_L1_%,0.8180769085884094,full
+E3 PI-CycleEV,cycle_summer,voltage,level_L1_%,9.065462112426758,full
+E3 PI-CycleEV,cycle_summer,voltage,shape_L1_%,2.4854135513305664,full
+E3 PI-CycleEV,cycle_summer,voltage,flat_ref_shape_L1_%,2.6446502208709717,full
+E3 PI-CycleEV,cycle_summer,torque,level_L1_%,1.5592539310455322,full
+E3 PI-CycleEV,cycle_summer,torque,shape_L1_%,5.644255638122559,full
+E3 PI-CycleEV,cycle_summer,torque,flat_ref_shape_L1_%,7.335212230682373,full
+E3 PI-CycleEV,cycle_summer,accel,level_L1_%,1.0600335597991943,full
+E3 PI-CycleEV,cycle_summer,accel,shape_L1_%,5.182892799377441,full
+E3 PI-CycleEV,cycle_summer,accel,flat_ref_shape_L1_%,6.198882102966309,full
+E3 PI-CycleEV,cycle_summer,soc,RMSE_%,25.097286224365234,full
+E3 PI-CycleEV,cycle_summer,soc,MAE_%,18.390024185180664,full
+E3 PI-CycleEV,cycle_summer,soc,DTW_%,18.69133375088483,full
+E3 PI-CycleEV,cycle_summer,voltage,RMSE_%,13.350057601928711,full
+E3 PI-CycleEV,cycle_summer,voltage,MAE_%,9.576258659362793,full
+E3 PI-CycleEV,cycle_summer,voltage,DTW_%,7.780488558926502,full
+E3 PI-CycleEV,cycle_summer,torque,RMSE_%,8.693460464477539,full
+E3 PI-CycleEV,cycle_summer,torque,MAE_%,5.916676998138428,full
+E3 PI-CycleEV,cycle_summer,torque,DTW_%,5.966138295700328,full
+E3 PI-CycleEV,cycle_summer,accel,RMSE_%,8.43088436126709,full
+E3 PI-CycleEV,cycle_summer,accel,MAE_%,5.351719379425049,full
+E3 PI-CycleEV,cycle_summer,accel,DTW_%,6.390999693242517,full
+E3 PI-CycleEV,cycle_summer,all14,RMSE_%,15.973228454589844,full
+E3 PI-CycleEV,cycle_summer,all14,MAE_%,9.527059555053711,full
+E3 PI-CycleEV,cycle_winter,soc,level_L1_%,20.116243362426758,full
+E3 PI-CycleEV,cycle_winter,soc,shape_L1_%,3.264570951461792,full
+E3 PI-CycleEV,cycle_winter,soc,flat_ref_shape_L1_%,1.0679054260253906,full
+E3 PI-CycleEV,cycle_winter,voltage,level_L1_%,10.659945487976074,full
+E3 PI-CycleEV,cycle_winter,voltage,shape_L1_%,3.82737135887146,full
+E3 PI-CycleEV,cycle_winter,voltage,flat_ref_shape_L1_%,5.109511852264404,full
+E3 PI-CycleEV,cycle_winter,torque,level_L1_%,1.8249908685684204,full
+E3 PI-CycleEV,cycle_winter,torque,shape_L1_%,4.846113681793213,full
+E3 PI-CycleEV,cycle_winter,torque,flat_ref_shape_L1_%,7.98747444152832,full
+E3 PI-CycleEV,cycle_winter,accel,level_L1_%,1.5440914630889893,full
+E3 PI-CycleEV,cycle_winter,accel,shape_L1_%,4.279602527618408,full
+E3 PI-CycleEV,cycle_winter,accel,flat_ref_shape_L1_%,6.454221725463867,full
+E3 PI-CycleEV,cycle_winter,soc,RMSE_%,25.820524215698242,full
+E3 PI-CycleEV,cycle_winter,soc,MAE_%,20.42922592163086,full
+E3 PI-CycleEV,cycle_winter,soc,DTW_%,20.076815708303478,full
+E3 PI-CycleEV,cycle_winter,voltage,RMSE_%,15.285579681396484,full
+E3 PI-CycleEV,cycle_winter,voltage,MAE_%,11.340126991271973,full
+E3 PI-CycleEV,cycle_winter,voltage,DTW_%,8.47849685475067,full
+E3 PI-CycleEV,cycle_winter,torque,RMSE_%,7.717239856719971,full
+E3 PI-CycleEV,cycle_winter,torque,MAE_%,5.136744499206543,full
+E3 PI-CycleEV,cycle_winter,torque,DTW_%,5.588879354791443,full
+E3 PI-CycleEV,cycle_winter,accel,RMSE_%,7.183042049407959,full
+E3 PI-CycleEV,cycle_winter,accel,MAE_%,4.504961013793945,full
+E3 PI-CycleEV,cycle_winter,accel,DTW_%,5.477000909446312,full
+E3 PI-CycleEV,cycle_winter,all14,RMSE_%,11.325176239013672,full
+E3 PI-CycleEV,cycle_winter,all14,MAE_%,6.820302963256836,full
+E3 PI-CycleEV,identity_summer,soc,level_L1_%,17.681055068969727,full
+E3 PI-CycleEV,identity_summer,soc,shape_L1_%,2.718257427215576,full
+E3 PI-CycleEV,identity_summer,soc,flat_ref_shape_L1_%,0.8180769085884094,full
+E3 PI-CycleEV,identity_summer,voltage,level_L1_%,8.364086151123047,full
+E3 PI-CycleEV,identity_summer,voltage,shape_L1_%,2.3195550441741943,full
+E3 PI-CycleEV,identity_summer,voltage,flat_ref_shape_L1_%,2.6446502208709717,full
+E3 PI-CycleEV,identity_summer,torque,level_L1_%,1.3604706525802612,full
+E3 PI-CycleEV,identity_summer,torque,shape_L1_%,4.756992816925049,full
+E3 PI-CycleEV,identity_summer,torque,flat_ref_shape_L1_%,7.335212230682373,full
+E3 PI-CycleEV,identity_summer,accel,level_L1_%,1.071481466293335,full
+E3 PI-CycleEV,identity_summer,accel,shape_L1_%,4.461331367492676,full
+E3 PI-CycleEV,identity_summer,accel,flat_ref_shape_L1_%,6.198882102966309,full
+E3 PI-CycleEV,identity_summer,soc,RMSE_%,24.658523559570312,full
+E3 PI-CycleEV,identity_summer,soc,MAE_%,17.925853729248047,full
+E3 PI-CycleEV,identity_summer,soc,DTW_%,18.249226394022386,full
+E3 PI-CycleEV,identity_summer,voltage,RMSE_%,12.565973281860352,full
+E3 PI-CycleEV,identity_summer,voltage,MAE_%,8.882373809814453,full
+E3 PI-CycleEV,identity_summer,voltage,DTW_%,7.07147772788889,full
+E3 PI-CycleEV,identity_summer,torque,RMSE_%,7.221571445465088,full
+E3 PI-CycleEV,identity_summer,torque,MAE_%,5.0222063064575195,full
+E3 PI-CycleEV,identity_summer,torque,DTW_%,5.189522498850427,full
+E3 PI-CycleEV,identity_summer,accel,RMSE_%,7.422910690307617,full
+E3 PI-CycleEV,identity_summer,accel,MAE_%,4.650392055511475,full
+E3 PI-CycleEV,identity_summer,accel,DTW_%,5.794126072833026,full
+E3 PI-CycleEV,identity_summer,all14,RMSE_%,15.053746223449707,full
+E3 PI-CycleEV,identity_summer,all14,MAE_%,8.781362533569336,full
+E3 PI-CycleEV,identity_winter,soc,level_L1_%,19.15320587158203,full
+E3 PI-CycleEV,identity_winter,soc,shape_L1_%,3.427561044692993,full
+E3 PI-CycleEV,identity_winter,soc,flat_ref_shape_L1_%,1.0679054260253906,full
+E3 PI-CycleEV,identity_winter,voltage,level_L1_%,9.55073070526123,full
+E3 PI-CycleEV,identity_winter,voltage,shape_L1_%,3.7033603191375732,full
+E3 PI-CycleEV,identity_winter,voltage,flat_ref_shape_L1_%,5.109511852264404,full
+E3 PI-CycleEV,identity_winter,torque,level_L1_%,1.5362915992736816,full
+E3 PI-CycleEV,identity_winter,torque,shape_L1_%,4.088352203369141,full
+E3 PI-CycleEV,identity_winter,torque,flat_ref_shape_L1_%,7.98747444152832,full
+E3 PI-CycleEV,identity_winter,accel,level_L1_%,1.4809304475784302,full
+E3 PI-CycleEV,identity_winter,accel,shape_L1_%,3.6865100860595703,full
+E3 PI-CycleEV,identity_winter,accel,flat_ref_shape_L1_%,6.454221725463867,full
+E3 PI-CycleEV,identity_winter,soc,RMSE_%,24.769132614135742,full
+E3 PI-CycleEV,identity_winter,soc,MAE_%,19.492332458496094,full
+E3 PI-CycleEV,identity_winter,soc,DTW_%,19.17882990062024,full
+E3 PI-CycleEV,identity_winter,voltage,RMSE_%,13.781976699829102,full
+E3 PI-CycleEV,identity_winter,voltage,MAE_%,10.258901596069336,full
+E3 PI-CycleEV,identity_winter,voltage,DTW_%,7.457868105503477,full
+E3 PI-CycleEV,identity_winter,torque,RMSE_%,6.54887056350708,full
+E3 PI-CycleEV,identity_winter,torque,MAE_%,4.3742218017578125,full
+E3 PI-CycleEV,identity_winter,torque,DTW_%,4.812981614129655,full
+E3 PI-CycleEV,identity_winter,accel,RMSE_%,6.360363006591797,full
+E3 PI-CycleEV,identity_winter,accel,MAE_%,3.9618003368377686,full
+E3 PI-CycleEV,identity_winter,accel,DTW_%,5.010813536883917,full
+E3 PI-CycleEV,identity_winter,all14,RMSE_%,10.742280960083008,full
+E3 PI-CycleEV,identity_winter,all14,MAE_%,6.430438041687012,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,level_L1_%,11.935168266296387,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,shape_L1_%,1.6739636659622192,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,flat_ref_shape_L1_%,0.9352918863296509,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,level_L1_%,4.9961371421813965,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,shape_L1_%,1.3750019073486328,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,flat_ref_shape_L1_%,3.801116704940796,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,level_L1_%,0.49080896377563477,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,shape_L1_%,1.969571590423584,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,flat_ref_shape_L1_%,7.641241073608398,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,level_L1_%,0.6049650311470032,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,shape_L1_%,1.9626487493515015,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,flat_ref_shape_L1_%,6.318682670593262,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,RMSE_%,16.13957977294922,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,MAE_%,12.042125701904297,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,DTW_%,11.96754978455112,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,RMSE_%,7.742737293243408,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,MAE_%,5.263899803161621,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,DTW_%,3.937493979930242,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,RMSE_%,3.048987865447998,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,MAE_%,2.040195941925049,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,DTW_%,2.567891354138507,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,RMSE_%,3.062164783477783,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,MAE_%,2.0541281700134277,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,DTW_%,2.4506862220009245,full
+E1 TS-p2pGAN baseline,paired_in_to_out,current,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,current,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,current,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,throttle,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,throttle,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,throttle,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,velocity,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,velocity,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,velocity,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,elevation,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,elevation,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,elevation,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heat_req,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heat_req,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heat_req,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,aircon,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,aircon,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,aircon,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_v,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_v,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_v,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_i,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_i,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_i,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,batt_temp,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,batt_temp,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,batt_temp,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,amb_temp,mean_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,amb_temp,std_abs_diff_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,amb_temp,wasserstein_%range,0.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,mean_abs_diff_%range,6.6625261306762695,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,std_abs_diff_%range,5.037293910980225,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,wasserstein_%range,6.773762936443604,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,mean_abs_diff_%range,2.2761800289154053,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,std_abs_diff_%range,0.8074785470962524,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,wasserstein_%range,2.4225095261417526,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,mean_abs_diff_%range,0.1513669341802597,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,std_abs_diff_%range,0.02750411257147789,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,wasserstein_%range,0.5964112980150288,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,mean_abs_diff_%range,0.18467238545417786,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,std_abs_diff_%range,0.08439448475837708,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,wasserstein_%range,0.2610919954229668,full
+E1 TS-p2pGAN baseline,paired_in_to_out,current,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,throttle,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,velocity,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,elevation,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heat_req,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,aircon,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_v,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,heater_i,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,batt_temp,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,amb_temp,window_mean_std_ratio,1.0,full
+E1 TS-p2pGAN baseline,paired_in_to_out,soc,window_mean_std_ratio,0.77533358335495,full
+E1 TS-p2pGAN baseline,paired_in_to_out,voltage,window_mean_std_ratio,0.9371699690818787,full
+E1 TS-p2pGAN baseline,paired_in_to_out,torque,window_mean_std_ratio,1.0003172159194946,full
+E1 TS-p2pGAN baseline,paired_in_to_out,accel,window_mean_std_ratio,0.8896675705909729,full
+E1 TS-p2pGAN baseline,paired_in_to_out,all,corr_matrix_mean_abs_diff,0.037084086293416176,full
+E1 TS-p2pGAN baseline,paired_in_to_out,all,corr_outputs_mean_abs_diff,0.019974120761782475,full
+E1 TS-p2pGAN baseline,paired_in_to_out,all,phys_soc_residual,2.0240581092651952,full
+E1 TS-p2pGAN baseline,paired_in_to_out,all,phys_va_residual,0.16637225249033058,full
+E2 CycleGAN (no physics),summer_to_winter,current,mean_abs_diff_%range,0.3246091902256012,full
+E2 CycleGAN (no physics),summer_to_winter,current,std_abs_diff_%range,1.4870045185089111,full
+E2 CycleGAN (no physics),summer_to_winter,current,wasserstein_%range,2.371291695564982,full
+E2 CycleGAN (no physics),summer_to_winter,throttle,mean_abs_diff_%range,0.6939894556999207,full
+E2 CycleGAN (no physics),summer_to_winter,throttle,std_abs_diff_%range,1.9231561422348022,full
+E2 CycleGAN (no physics),summer_to_winter,throttle,wasserstein_%range,4.525932221799868,full
+E2 CycleGAN (no physics),summer_to_winter,velocity,mean_abs_diff_%range,11.099761009216309,full
+E2 CycleGAN (no physics),summer_to_winter,velocity,std_abs_diff_%range,12.842108726501465,full
+E2 CycleGAN (no physics),summer_to_winter,velocity,wasserstein_%range,16.471261581614993,full
+E2 CycleGAN (no physics),summer_to_winter,elevation,mean_abs_diff_%range,2.8909597396850586,full
+E2 CycleGAN (no physics),summer_to_winter,elevation,std_abs_diff_%range,0.8198732733726501,full
+E2 CycleGAN (no physics),summer_to_winter,elevation,wasserstein_%range,2.9982058882663813,full
+E2 CycleGAN (no physics),summer_to_winter,heat_req,mean_abs_diff_%range,3.882941961288452,full
+E2 CycleGAN (no physics),summer_to_winter,heat_req,std_abs_diff_%range,2.308678150177002,full
+E2 CycleGAN (no physics),summer_to_winter,heat_req,wasserstein_%range,3.8830756776782223,full
+E2 CycleGAN (no physics),summer_to_winter,aircon,mean_abs_diff_%range,3.264444351196289,full
+E2 CycleGAN (no physics),summer_to_winter,aircon,std_abs_diff_%range,1.6769574880599976,full
+E2 CycleGAN (no physics),summer_to_winter,aircon,wasserstein_%range,3.2644442733643135,full
+E2 CycleGAN (no physics),summer_to_winter,heater_v,mean_abs_diff_%range,2.3348779678344727,full
+E2 CycleGAN (no physics),summer_to_winter,heater_v,std_abs_diff_%range,2.2085041999816895,full
+E2 CycleGAN (no physics),summer_to_winter,heater_v,wasserstein_%range,2.7184282939601827,full
+E2 CycleGAN (no physics),summer_to_winter,heater_i,mean_abs_diff_%range,3.8297600746154785,full
+E2 CycleGAN (no physics),summer_to_winter,heater_i,std_abs_diff_%range,2.7001824378967285,full
+E2 CycleGAN (no physics),summer_to_winter,heater_i,wasserstein_%range,3.8318881951314956,full
+E2 CycleGAN (no physics),summer_to_winter,batt_temp,mean_abs_diff_%range,3.9551994800567627,full
+E2 CycleGAN (no physics),summer_to_winter,batt_temp,std_abs_diff_%range,1.8669334650039673,full
+E2 CycleGAN (no physics),summer_to_winter,batt_temp,wasserstein_%range,3.955211135868103,full
+E2 CycleGAN (no physics),summer_to_winter,amb_temp,mean_abs_diff_%range,4.41079044342041,full
+E2 CycleGAN (no physics),summer_to_winter,amb_temp,std_abs_diff_%range,7.437302112579346,full
+E2 CycleGAN (no physics),summer_to_winter,amb_temp,wasserstein_%range,5.94040755828766,full
+E2 CycleGAN (no physics),summer_to_winter,soc,mean_abs_diff_%range,3.1598753929138184,full
+E2 CycleGAN (no physics),summer_to_winter,soc,std_abs_diff_%range,22.824377059936523,full
+E2 CycleGAN (no physics),summer_to_winter,soc,wasserstein_%range,19.102186114021706,full
+E2 CycleGAN (no physics),summer_to_winter,voltage,mean_abs_diff_%range,7.2241082191467285,full
+E2 CycleGAN (no physics),summer_to_winter,voltage,std_abs_diff_%range,6.685949802398682,full
+E2 CycleGAN (no physics),summer_to_winter,voltage,wasserstein_%range,9.210810427262112,full
+E2 CycleGAN (no physics),summer_to_winter,torque,mean_abs_diff_%range,1.014265537261963,full
+E2 CycleGAN (no physics),summer_to_winter,torque,std_abs_diff_%range,0.4341067671775818,full
+E2 CycleGAN (no physics),summer_to_winter,torque,wasserstein_%range,2.1035441292751655,full
+E2 CycleGAN (no physics),summer_to_winter,accel,mean_abs_diff_%range,0.3772565722465515,full
+E2 CycleGAN (no physics),summer_to_winter,accel,std_abs_diff_%range,0.6309675574302673,full
+E2 CycleGAN (no physics),summer_to_winter,accel,wasserstein_%range,2.2323631893264557,full
+E2 CycleGAN (no physics),summer_to_winter,current,window_mean_std_ratio,0.1325390487909317,full
+E2 CycleGAN (no physics),summer_to_winter,throttle,window_mean_std_ratio,0.21649862825870514,full
+E2 CycleGAN (no physics),summer_to_winter,velocity,window_mean_std_ratio,0.2257235050201416,full
+E2 CycleGAN (no physics),summer_to_winter,elevation,window_mean_std_ratio,0.20264162123203278,full
+E2 CycleGAN (no physics),summer_to_winter,heat_req,window_mean_std_ratio,0.07486443966627121,full
+E2 CycleGAN (no physics),summer_to_winter,aircon,window_mean_std_ratio,0.9077840447425842,full
+E2 CycleGAN (no physics),summer_to_winter,heater_v,window_mean_std_ratio,0.4077506959438324,full
+E2 CycleGAN (no physics),summer_to_winter,heater_i,window_mean_std_ratio,0.0653805360198021,full
+E2 CycleGAN (no physics),summer_to_winter,batt_temp,window_mean_std_ratio,0.2439228892326355,full
+E2 CycleGAN (no physics),summer_to_winter,amb_temp,window_mean_std_ratio,0.026038754731416702,full
+E2 CycleGAN (no physics),summer_to_winter,soc,window_mean_std_ratio,0.03477023169398308,full
+E2 CycleGAN (no physics),summer_to_winter,voltage,window_mean_std_ratio,0.13905514776706696,full
+E2 CycleGAN (no physics),summer_to_winter,torque,window_mean_std_ratio,0.24676884710788727,full
+E2 CycleGAN (no physics),summer_to_winter,accel,window_mean_std_ratio,0.33811473846435547,full
+E2 CycleGAN (no physics),summer_to_winter,all,corr_matrix_mean_abs_diff,0.26775744872963886,full
+E2 CycleGAN (no physics),summer_to_winter,all,corr_outputs_mean_abs_diff,0.2729374152158789,full
+E2 CycleGAN (no physics),winter_to_summer,current,mean_abs_diff_%range,0.3929436206817627,full
+E2 CycleGAN (no physics),winter_to_summer,current,std_abs_diff_%range,0.5663195848464966,full
+E2 CycleGAN (no physics),winter_to_summer,current,wasserstein_%range,1.4340980775029535,full
+E2 CycleGAN (no physics),winter_to_summer,throttle,mean_abs_diff_%range,1.7375178337097168,full
+E2 CycleGAN (no physics),winter_to_summer,throttle,std_abs_diff_%range,0.44857078790664673,full
+E2 CycleGAN (no physics),winter_to_summer,throttle,wasserstein_%range,3.105090589997565,full
+E2 CycleGAN (no physics),winter_to_summer,velocity,mean_abs_diff_%range,0.20418356359004974,full
+E2 CycleGAN (no physics),winter_to_summer,velocity,std_abs_diff_%range,1.9569907188415527,full
+E2 CycleGAN (no physics),winter_to_summer,velocity,wasserstein_%range,2.5990202472042494,full
+E2 CycleGAN (no physics),winter_to_summer,elevation,mean_abs_diff_%range,2.756695508956909,full
+E2 CycleGAN (no physics),winter_to_summer,elevation,std_abs_diff_%range,3.5703353881835938,full
+E2 CycleGAN (no physics),winter_to_summer,elevation,wasserstein_%range,3.5128269890791723,full
+E2 CycleGAN (no physics),winter_to_summer,heat_req,mean_abs_diff_%range,0.4334981143474579,full
+E2 CycleGAN (no physics),winter_to_summer,heat_req,std_abs_diff_%range,3.51971435546875,full
+E2 CycleGAN (no physics),winter_to_summer,heat_req,wasserstein_%range,0.5268792647891214,full
+E2 CycleGAN (no physics),winter_to_summer,aircon,mean_abs_diff_%range,3.5386312007904053,full
+E2 CycleGAN (no physics),winter_to_summer,aircon,std_abs_diff_%range,15.90624713897705,full
+E2 CycleGAN (no physics),winter_to_summer,aircon,wasserstein_%range,11.781398646828624,full
+E2 CycleGAN (no physics),winter_to_summer,heater_v,mean_abs_diff_%range,6.315380096435547,full
+E2 CycleGAN (no physics),winter_to_summer,heater_v,std_abs_diff_%range,15.99156379699707,full
+E2 CycleGAN (no physics),winter_to_summer,heater_v,wasserstein_%range,6.878623412916858,full
+E2 CycleGAN (no physics),winter_to_summer,heater_i,mean_abs_diff_%range,0.01077372208237648,full
+E2 CycleGAN (no physics),winter_to_summer,heater_i,std_abs_diff_%range,0.031242813915014267,full
+E2 CycleGAN (no physics),winter_to_summer,heater_i,wasserstein_%range,0.010773721785870933,full
+E2 CycleGAN (no physics),winter_to_summer,batt_temp,mean_abs_diff_%range,3.001939058303833,full
+E2 CycleGAN (no physics),winter_to_summer,batt_temp,std_abs_diff_%range,13.966499328613281,full
+E2 CycleGAN (no physics),winter_to_summer,batt_temp,wasserstein_%range,14.495915671502384,full
+E2 CycleGAN (no physics),winter_to_summer,amb_temp,mean_abs_diff_%range,7.465080261230469,full
+E2 CycleGAN (no physics),winter_to_summer,amb_temp,std_abs_diff_%range,12.607671737670898,full
+E2 CycleGAN (no physics),winter_to_summer,amb_temp,wasserstein_%range,13.21406584538499,full
+E2 CycleGAN (no physics),winter_to_summer,soc,mean_abs_diff_%range,6.803516387939453,full
+E2 CycleGAN (no physics),winter_to_summer,soc,std_abs_diff_%range,15.122036933898926,full
+E2 CycleGAN (no physics),winter_to_summer,soc,wasserstein_%range,11.162809630195573,full
+E2 CycleGAN (no physics),winter_to_summer,voltage,mean_abs_diff_%range,6.7717132568359375,full
+E2 CycleGAN (no physics),winter_to_summer,voltage,std_abs_diff_%range,6.2327775955200195,full
+E2 CycleGAN (no physics),winter_to_summer,voltage,wasserstein_%range,6.8285920947827465,full
+E2 CycleGAN (no physics),winter_to_summer,torque,mean_abs_diff_%range,0.13803261518478394,full
+E2 CycleGAN (no physics),winter_to_summer,torque,std_abs_diff_%range,2.742588996887207,full
+E2 CycleGAN (no physics),winter_to_summer,torque,wasserstein_%range,3.805672385604459,full
+E2 CycleGAN (no physics),winter_to_summer,accel,mean_abs_diff_%range,3.330768585205078,full
+E2 CycleGAN (no physics),winter_to_summer,accel,std_abs_diff_%range,2.8797647953033447,full
+E2 CycleGAN (no physics),winter_to_summer,accel,wasserstein_%range,4.245739479239173,full
+E2 CycleGAN (no physics),winter_to_summer,current,window_mean_std_ratio,0.5005506277084351,full
+E2 CycleGAN (no physics),winter_to_summer,throttle,window_mean_std_ratio,0.3550775647163391,full
+E2 CycleGAN (no physics),winter_to_summer,velocity,window_mean_std_ratio,0.618600070476532,full
+E2 CycleGAN (no physics),winter_to_summer,elevation,window_mean_std_ratio,0.030444107949733734,full
+E2 CycleGAN (no physics),winter_to_summer,heat_req,window_mean_std_ratio,0.009860323742032051,full
+E2 CycleGAN (no physics),winter_to_summer,aircon,window_mean_std_ratio,0.025760341435670853,full
+E2 CycleGAN (no physics),winter_to_summer,heater_v,window_mean_std_ratio,0.010545884259045124,full
+E2 CycleGAN (no physics),winter_to_summer,heater_i,window_mean_std_ratio,4167388.25,full
+E2 CycleGAN (no physics),winter_to_summer,batt_temp,window_mean_std_ratio,0.01478310115635395,full
+E2 CycleGAN (no physics),winter_to_summer,amb_temp,window_mean_std_ratio,0.009585545398294926,full
+E2 CycleGAN (no physics),winter_to_summer,soc,window_mean_std_ratio,0.12241321057081223,full
+E2 CycleGAN (no physics),winter_to_summer,voltage,window_mean_std_ratio,0.17206034064292908,full
+E2 CycleGAN (no physics),winter_to_summer,torque,window_mean_std_ratio,0.2803749144077301,full
+E2 CycleGAN (no physics),winter_to_summer,accel,window_mean_std_ratio,0.21867817640304565,full
+E2 CycleGAN (no physics),winter_to_summer,all,corr_matrix_mean_abs_diff,0.23875080663569256,full
+E2 CycleGAN (no physics),winter_to_summer,all,corr_outputs_mean_abs_diff,0.22545555199915324,full
+E2 CycleGAN (no physics),summer_to_winter,all,phys_soc_residual,18.382861993977777,full
+E2 CycleGAN (no physics),summer_to_winter,all,phys_va_residual,8.830157967665542,full
+E2 CycleGAN (no physics),winter_to_summer,all,phys_soc_residual,0.43145870354337185,full
+E2 CycleGAN (no physics),winter_to_summer,all,phys_va_residual,5.80007007269353,full
+E3 PI-CycleEV,summer_to_winter,current,mean_abs_diff_%range,5.621748924255371,full
+E3 PI-CycleEV,summer_to_winter,current,std_abs_diff_%range,8.483351707458496,full
+E3 PI-CycleEV,summer_to_winter,current,wasserstein_%range,9.793622168195542,full
+E3 PI-CycleEV,summer_to_winter,throttle,mean_abs_diff_%range,2.112982988357544,full
+E3 PI-CycleEV,summer_to_winter,throttle,std_abs_diff_%range,0.7533711791038513,full
+E3 PI-CycleEV,summer_to_winter,throttle,wasserstein_%range,3.60709870704266,full
+E3 PI-CycleEV,summer_to_winter,velocity,mean_abs_diff_%range,4.120721817016602,full
+E3 PI-CycleEV,summer_to_winter,velocity,std_abs_diff_%range,12.772562026977539,full
+E3 PI-CycleEV,summer_to_winter,velocity,wasserstein_%range,14.308970672912647,full
+E3 PI-CycleEV,summer_to_winter,elevation,mean_abs_diff_%range,2.9215850830078125,full
+E3 PI-CycleEV,summer_to_winter,elevation,std_abs_diff_%range,13.940836906433105,full
+E3 PI-CycleEV,summer_to_winter,elevation,wasserstein_%range,11.603006227522826,full
+E3 PI-CycleEV,summer_to_winter,heat_req,mean_abs_diff_%range,5.221699237823486,full
+E3 PI-CycleEV,summer_to_winter,heat_req,std_abs_diff_%range,2.1998722553253174,full
+E3 PI-CycleEV,summer_to_winter,heat_req,wasserstein_%range,5.221732870608122,full
+E3 PI-CycleEV,summer_to_winter,aircon,mean_abs_diff_%range,3.2449610233306885,full
+E3 PI-CycleEV,summer_to_winter,aircon,std_abs_diff_%range,1.096847653388977,full
+E3 PI-CycleEV,summer_to_winter,aircon,wasserstein_%range,3.2852529612049652,full
+E3 PI-CycleEV,summer_to_winter,heater_v,mean_abs_diff_%range,4.712260723114014,full
+E3 PI-CycleEV,summer_to_winter,heater_v,std_abs_diff_%range,15.226072311401367,full
+E3 PI-CycleEV,summer_to_winter,heater_v,wasserstein_%range,11.644644926686,full
+E3 PI-CycleEV,summer_to_winter,heater_i,mean_abs_diff_%range,5.859731197357178,full
+E3 PI-CycleEV,summer_to_winter,heater_i,std_abs_diff_%range,2.753553628921509,full
+E3 PI-CycleEV,summer_to_winter,heater_i,wasserstein_%range,5.859749474274847,full
+E3 PI-CycleEV,summer_to_winter,batt_temp,mean_abs_diff_%range,10.64342975616455,full
+E3 PI-CycleEV,summer_to_winter,batt_temp,std_abs_diff_%range,8.320757865905762,full
+E3 PI-CycleEV,summer_to_winter,batt_temp,wasserstein_%range,11.594029861131986,full
+E3 PI-CycleEV,summer_to_winter,amb_temp,mean_abs_diff_%range,8.083727836608887,full
+E3 PI-CycleEV,summer_to_winter,amb_temp,std_abs_diff_%range,11.346817016601562,full
+E3 PI-CycleEV,summer_to_winter,amb_temp,wasserstein_%range,13.93520830781656,full
+E3 PI-CycleEV,summer_to_winter,soc,mean_abs_diff_%range,8.440933227539062,full
+E3 PI-CycleEV,summer_to_winter,soc,std_abs_diff_%range,6.072325706481934,full
+E3 PI-CycleEV,summer_to_winter,soc,wasserstein_%range,8.460053160533997,full
+E3 PI-CycleEV,summer_to_winter,voltage,mean_abs_diff_%range,0.8131926655769348,full
+E3 PI-CycleEV,summer_to_winter,voltage,std_abs_diff_%range,0.7603909969329834,full
+E3 PI-CycleEV,summer_to_winter,voltage,wasserstein_%range,1.6612142285463434,full
+E3 PI-CycleEV,summer_to_winter,torque,mean_abs_diff_%range,4.037381649017334,full
+E3 PI-CycleEV,summer_to_winter,torque,std_abs_diff_%range,10.178053855895996,full
+E3 PI-CycleEV,summer_to_winter,torque,wasserstein_%range,11.017357499066081,full
+E3 PI-CycleEV,summer_to_winter,accel,mean_abs_diff_%range,3.7316036224365234,full
+E3 PI-CycleEV,summer_to_winter,accel,std_abs_diff_%range,10.15204906463623,full
+E3 PI-CycleEV,summer_to_winter,accel,wasserstein_%range,10.290278535350536,full
+E3 PI-CycleEV,summer_to_winter,current,window_mean_std_ratio,0.0399392731487751,full
+E3 PI-CycleEV,summer_to_winter,throttle,window_mean_std_ratio,0.036693256348371506,full
+E3 PI-CycleEV,summer_to_winter,velocity,window_mean_std_ratio,0.022008605301380157,full
+E3 PI-CycleEV,summer_to_winter,elevation,window_mean_std_ratio,0.026362363249063492,full
+E3 PI-CycleEV,summer_to_winter,heat_req,window_mean_std_ratio,0.005847889464348555,full
+E3 PI-CycleEV,summer_to_winter,aircon,window_mean_std_ratio,0.05261129513382912,full
+E3 PI-CycleEV,summer_to_winter,heater_v,window_mean_std_ratio,0.09035716950893402,full
+E3 PI-CycleEV,summer_to_winter,heater_i,window_mean_std_ratio,0.00621075788512826,full
+E3 PI-CycleEV,summer_to_winter,batt_temp,window_mean_std_ratio,0.03667392581701279,full
+E3 PI-CycleEV,summer_to_winter,amb_temp,window_mean_std_ratio,0.012057612650096416,full
+E3 PI-CycleEV,summer_to_winter,soc,window_mean_std_ratio,0.0037693683989346027,full
+E3 PI-CycleEV,summer_to_winter,voltage,window_mean_std_ratio,0.01707632653415203,full
+E3 PI-CycleEV,summer_to_winter,torque,window_mean_std_ratio,0.10669779032468796,full
+E3 PI-CycleEV,summer_to_winter,accel,window_mean_std_ratio,0.06913796812295914,full
+E3 PI-CycleEV,summer_to_winter,all,corr_matrix_mean_abs_diff,0.28511007400773025,full
+E3 PI-CycleEV,summer_to_winter,all,corr_outputs_mean_abs_diff,0.48528252793419924,full
+E3 PI-CycleEV,winter_to_summer,current,mean_abs_diff_%range,3.5543556213378906,full
+E3 PI-CycleEV,winter_to_summer,current,std_abs_diff_%range,2.0544283390045166,full
+E3 PI-CycleEV,winter_to_summer,current,wasserstein_%range,3.840067344170601,full
+E3 PI-CycleEV,winter_to_summer,throttle,mean_abs_diff_%range,0.47289183735847473,full
+E3 PI-CycleEV,winter_to_summer,throttle,std_abs_diff_%range,0.18844731152057648,full
+E3 PI-CycleEV,winter_to_summer,throttle,wasserstein_%range,3.4759259771969404,full
+E3 PI-CycleEV,winter_to_summer,velocity,mean_abs_diff_%range,12.636672973632812,full
+E3 PI-CycleEV,winter_to_summer,velocity,std_abs_diff_%range,7.535686492919922,full
+E3 PI-CycleEV,winter_to_summer,velocity,wasserstein_%range,13.154342333542878,full
+E3 PI-CycleEV,winter_to_summer,elevation,mean_abs_diff_%range,1.3675568103790283,full
+E3 PI-CycleEV,winter_to_summer,elevation,std_abs_diff_%range,0.12049370259046555,full
+E3 PI-CycleEV,winter_to_summer,elevation,wasserstein_%range,2.09020738965448,full
+E3 PI-CycleEV,winter_to_summer,heat_req,mean_abs_diff_%range,0.49630603194236755,full
+E3 PI-CycleEV,winter_to_summer,heat_req,std_abs_diff_%range,3.7021994590759277,full
+E3 PI-CycleEV,winter_to_summer,heat_req,wasserstein_%range,0.5068576833052647,full
+E3 PI-CycleEV,winter_to_summer,aircon,mean_abs_diff_%range,10.63906192779541,full
+E3 PI-CycleEV,winter_to_summer,aircon,std_abs_diff_%range,19.754825592041016,full
+E3 PI-CycleEV,winter_to_summer,aircon,wasserstein_%range,14.17001103748629,full
+E3 PI-CycleEV,winter_to_summer,heater_v,mean_abs_diff_%range,7.143894672393799,full
+E3 PI-CycleEV,winter_to_summer,heater_v,std_abs_diff_%range,17.4036922454834,full
+E3 PI-CycleEV,winter_to_summer,heater_v,wasserstein_%range,7.1453823664634815,full
+E3 PI-CycleEV,winter_to_summer,heater_i,mean_abs_diff_%range,0.0013646908337250352,full
+E3 PI-CycleEV,winter_to_summer,heater_i,std_abs_diff_%range,0.0018169934628531337,full
+E3 PI-CycleEV,winter_to_summer,heater_i,wasserstein_%range,0.0013646909604843136,full
+E3 PI-CycleEV,winter_to_summer,batt_temp,mean_abs_diff_%range,0.7062296867370605,full
+E3 PI-CycleEV,winter_to_summer,batt_temp,std_abs_diff_%range,9.350586891174316,full
+E3 PI-CycleEV,winter_to_summer,batt_temp,wasserstein_%range,11.157218670875793,full
+E3 PI-CycleEV,winter_to_summer,amb_temp,mean_abs_diff_%range,2.5616581439971924,full
+E3 PI-CycleEV,winter_to_summer,amb_temp,std_abs_diff_%range,5.353915691375732,full
+E3 PI-CycleEV,winter_to_summer,amb_temp,wasserstein_%range,6.781953187041087,full
+E3 PI-CycleEV,winter_to_summer,soc,mean_abs_diff_%range,17.14583969116211,full
+E3 PI-CycleEV,winter_to_summer,soc,std_abs_diff_%range,11.698019027709961,full
+E3 PI-CycleEV,winter_to_summer,soc,wasserstein_%range,17.145854823043646,full
+E3 PI-CycleEV,winter_to_summer,voltage,mean_abs_diff_%range,6.996076583862305,full
+E3 PI-CycleEV,winter_to_summer,voltage,std_abs_diff_%range,4.279646396636963,full
+E3 PI-CycleEV,winter_to_summer,voltage,wasserstein_%range,6.996775462665708,full
+E3 PI-CycleEV,winter_to_summer,torque,mean_abs_diff_%range,0.09984353929758072,full
+E3 PI-CycleEV,winter_to_summer,torque,std_abs_diff_%range,2.1404757499694824,full
+E3 PI-CycleEV,winter_to_summer,torque,wasserstein_%range,3.5003922226303317,full
+E3 PI-CycleEV,winter_to_summer,accel,mean_abs_diff_%range,0.46185529232025146,full
+E3 PI-CycleEV,winter_to_summer,accel,std_abs_diff_%range,2.8316612243652344,full
+E3 PI-CycleEV,winter_to_summer,accel,wasserstein_%range,3.695631672458715,full
+E3 PI-CycleEV,winter_to_summer,current,window_mean_std_ratio,0.08693255484104156,full
+E3 PI-CycleEV,winter_to_summer,throttle,window_mean_std_ratio,0.35059598088264465,full
+E3 PI-CycleEV,winter_to_summer,velocity,window_mean_std_ratio,0.39739227294921875,full
+E3 PI-CycleEV,winter_to_summer,elevation,window_mean_std_ratio,0.0840539038181305,full
+E3 PI-CycleEV,winter_to_summer,heat_req,window_mean_std_ratio,0.0012498970609158278,full
+E3 PI-CycleEV,winter_to_summer,aircon,window_mean_std_ratio,0.024197464808821678,full
+E3 PI-CycleEV,winter_to_summer,heater_v,window_mean_std_ratio,3.866605766233988e-05,full
+E3 PI-CycleEV,winter_to_summer,heater_i,window_mean_std_ratio,594691.0625,full
+E3 PI-CycleEV,winter_to_summer,batt_temp,window_mean_std_ratio,0.07977104187011719,full
+E3 PI-CycleEV,winter_to_summer,amb_temp,window_mean_std_ratio,0.06494344770908356,full
+E3 PI-CycleEV,winter_to_summer,soc,window_mean_std_ratio,0.06253233551979065,full
+E3 PI-CycleEV,winter_to_summer,voltage,window_mean_std_ratio,0.15727141499519348,full
+E3 PI-CycleEV,winter_to_summer,torque,window_mean_std_ratio,0.12996351718902588,full
+E3 PI-CycleEV,winter_to_summer,accel,window_mean_std_ratio,0.12073744088411331,full
+E3 PI-CycleEV,winter_to_summer,all,corr_matrix_mean_abs_diff,0.27273595077161883,full
+E3 PI-CycleEV,winter_to_summer,all,corr_outputs_mean_abs_diff,0.25334545783666435,full
+E3 PI-CycleEV,summer_to_winter,all,phys_soc_residual,0.002459223491121439,full
+E3 PI-CycleEV,summer_to_winter,all,phys_va_residual,3.3302316233310316,full
+E3 PI-CycleEV,winter_to_summer,all,phys_soc_residual,0.008790672773491964,full
+E3 PI-CycleEV,winter_to_summer,all,phys_va_residual,2.0108255567705124,full
+REAL data,winter,all,phys_soc_residual,0.04904377781386567,full
+REAL data,winter,all,phys_va_residual,0.12453894342179062,full
+REAL data,summer,all,phys_soc_residual,0.0008083691004237056,full
+REAL data,summer,all,phys_va_residual,0.17888879390435405,full

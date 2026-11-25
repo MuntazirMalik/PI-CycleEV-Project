@@ -42,7 +42,7 @@ models/    final generator weights (see note on size below)
 Python 3.13 (Colab) | TensorFlow 2.21.0 | NumPy 2.4.6 | pandas 2.2.3 | scikit-learn 1.6.1 | SciPy 1.16.3 | tslearn 0.10.0. The notebook prints the exact versions in cell 01.3.
 
 ## Runtime
-Baseline: about 44 minutes for 50 epochs on a Colab GPU. CycleGAN runs: 100 epochs each, trained across several Colab sessions with checkpoint resumes (see Training notes in Section 00 of the notebook), so there is no single wall-clock figure per run. Evaluation with saved weights: the total notebook time is stored as `notebook_runtime_minutes` in `results/reproducibility_summary_full.json`.
+Baseline: about 44 minutes for 50 epochs on a Colab GPU. CycleGAN runs: 100 epochs each, trained across several Colab sessions with checkpoint resumes (see Training notes in Section 00 of the notebook), so there is no single wall-clock figure per run. Evaluation with saved weights: about 25 minutes for the whole notebook (`notebook_runtime_minutes` in `results/reproducibility_summary_full.json`).
 
 ## Experiments
 | ID | Description |

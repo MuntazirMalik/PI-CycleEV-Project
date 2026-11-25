@@ -1,0 +1,88 @@
+{
+  "summer": {
+    "train": [
+      "TripA30",
+      "TripA16",
+      "TripA25",
+      "TripA18",
+      "TripA09",
+      "TripA10",
+      "TripA31",
+      "TripA26",
+      "TripA13",
+      "TripA01",
+      "TripA05",
+      "TripA17",
+      "TripA06",
+      "TripA14",
+      "TripA12",
+      "TripA24",
+      "TripA02",
+      "TripA03",
+      "TripA27",
+      "TripA04",
+      "TripA22",
+      "TripA28"
+    ],
+    "val": [
+      "TripA23",
+      "TripA19",
+      "TripA32",
+      "TripA21",
+      "TripA08"
+    ],
+    "test": [
+      "TripA11",
+      "TripA15",
+      "TripA29",
+      "TripA20",
+      "TripA07"
+    ]
+  },
+  "winter": {
+    "train": [
+      "TripB34",
+      "TripB37",
+      "TripB05",
+      "TripB14",
+      "TripB31",
+      "TripB27",
+      "TripB07",
+      "TripB28",
+      "TripB25",
+      "TripB16",
+      "TripB18",
+      "TripB09",
+      "TripB17",
+      "TripB13",
+      "TripB20",
+      "TripB10",
+      "TripB33",
+      "TripB01",
+      "TripB26",
+      "TripB06",
+      "TripB12",
+      "TripB02",
+      "TripB38",
+      "TripB22",
+      "TripB03",
+      "TripB30",
+      "TripB36"
+    ],
+    "val": [
+      "TripB04",
+      "TripB35",
+      "TripB24",
+      "TripB32",
+      "TripB11",
+      "TripB23"
+    ],
+    "test": [
+      "TripB19",
+      "TripB21",
+      "TripB08",
+      "TripB15",
+      "TripB29"
+    ]
+  }
+}

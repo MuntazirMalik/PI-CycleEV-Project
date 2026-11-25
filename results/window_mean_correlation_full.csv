@@ -1,0 +1,5 @@
+,current,throttle,velocity,elevation,heat_req,aircon,heater_v,heater_i,batt_temp,amb_temp,soc,voltage,torque,accel
+E2 CycleGAN (no physics) | summer->winter,0.31,0.25,0.28,0.06,0.04,-0.08,-0.1,,-0.06,-0.12,0.01,0.06,0.38,0.07
+E2 CycleGAN (no physics) | winter->summer,0.82,0.8,0.9,0.08,-0.24,0.2,-0.53,-0.22,0.33,-0.17,0.37,0.55,0.48,0.11
+E3 PI-CycleEV | summer->winter,0.72,0.52,0.47,-0.1,0.02,-0.03,-0.19,,0.09,-0.14,0.16,0.37,0.24,0.05
+E3 PI-CycleEV | winter->summer,0.69,0.83,0.89,0.01,-0.26,0.38,-0.43,-0.23,0.41,0.03,0.41,0.61,0.1,0.3

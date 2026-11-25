@@ -4,6 +4,7 @@ _archive/
 *.weights.h5
 *.h5
 *_test*
+windows_*.npz
 __pycache__/
 .ipynb_checkpoints/
 *.aux

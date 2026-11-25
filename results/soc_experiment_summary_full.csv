@@ -1,0 +1,11 @@
+direction,experiment,target_rmse,target_rmse_std,target_mae,target_r2,source_rmse,n_train
+summer_to_winter,E4 real source only,17.415,6.122,14.831,-0.049,7.389,5823
+summer_to_winter,E5 + TS-p2pGAN,20.303,11.693,18.925,-0.609,8.073,11646
+summer_to_winter,E6 + standard CycleGAN,15.587,1.952,13.217,0.215,5.018,11646
+summer_to_winter,E7 + PI-CycleEV,13.372,1.779,9.848,0.422,7.543,11646
+summer_to_winter,Ref real target-season training,4.604,0.181,3.735,0.932,12.883,9229
+winter_to_summer,E4 real source only,25.784,27.819,20.323,-6.192,4.941,9229
+winter_to_summer,E5 + TS-p2pGAN,9.398,1.72,7.932,0.45,4.956,18458
+winter_to_summer,E6 + standard CycleGAN,10.981,1.673,7.29,0.254,4.747,18458
+winter_to_summer,E7 + PI-CycleEV,14.624,2.511,10.661,-0.328,4.954,18458
+winter_to_summer,Ref real target-season training,5.974,1.414,4.047,0.775,19.775,5823

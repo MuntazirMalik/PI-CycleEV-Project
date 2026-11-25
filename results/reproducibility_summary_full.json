@@ -1,0 +1,75 @@
+{
+  "mode": "full",
+  "seed": 42,
+  "split_seed": 42,
+  "gpu": "/physical_device:GPU:0",
+  "versions": {
+    "python": "3.13.16",
+    "tensorflow": "2.21.0",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.16.3",
+    "tslearn": "0.10.0"
+  },
+  "data": {
+    "window": 256,
+    "stride": 4,
+    "downsample_factor": 10,
+    "smoothing_window": 10,
+    "trips_per_split": {
+      "summer": {
+        "train": 22,
+        "val": 5,
+        "test": 5
+      },
+      "winter": {
+        "train": 27,
+        "val": 6,
+        "test": 5
+      }
+    },
+    "windows_per_split": {
+      "summer": {
+        "train": 5823,
+        "val": 1956,
+        "test": 1886
+      },
+      "winter": {
+        "train": 9229,
+        "val": 1609,
+        "test": 1667
+      }
+    }
+  },
+  "training": {
+    "batch_size": 256,
+    "baseline_epochs": 50,
+    "cyclegan_epochs": 100,
+    "baseline_lambda_L1": 100.0,
+    "baseline_lr": 0.0006,
+    "cyclegan_lambda_cycle": 10.0,
+    "cyclegan_lambda_identity": 5.0,
+    "cyclegan_lr": 0.0002,
+    "physics_weights": {
+      "soc_current": 0.4,
+      "velocity_accel": 0.03,
+      "range": 5.0
+    },
+    "ablations_run": true,
+    "retrained_this_run": false,
+    "resumed_runs": {
+      "picycleev": "continued from the epoch-70 checkpoint",
+      "abl_no_range": "continued from the epoch-20 checkpoint",
+      "note": "generators restored from the checkpoint; discriminators and optimisers re-initialised"
+    }
+  },
+  "trainable_parameters": {
+    "baseline_generator": 60914180,
+    "baseline_discriminator": 1396610,
+    "cyclegan_generator_each": 10504590,
+    "cyclegan_discriminator_each": 696513,
+    "soc_estimator": 16161
+  },
+  "notebook_runtime_minutes": 25.0
+}
