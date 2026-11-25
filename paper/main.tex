@@ -47,7 +47,7 @@ This project follows that suggestion. Our contributions are:
 \textbf{Physics-informed learning.} Physics-informed neural networks \cite{raissi2019pinn} add residuals of known equations to the loss. We apply the same idea to GAN outputs, using battery charge conservation and kinematics. Our results show a limitation of this approach: a loss that only enforces a relation between signals can be satisfied by signals that are physically meaningless in magnitude.
 
 \section{Data and Preprocessing}
-We use the \emph{Battery and Heating Data for Real Driving Cycles} dataset \cite{ieeedata}: 70 trips of a BMW~i3 (60\,Ah), 32 in summer and 38 in winter, logged at 10\,Hz with 14 channels (10 conditioning signals and the four targets SOC, voltage, torque and acceleration). Each trip was cleaned (missing heater columns filled, trailing samples trimmed), smoothed with a ten-point moving average and downsampled to 1\,Hz. We scale every channel to $[-1,1]$ with a scaler fitted on training trips only, and cut windows of 256\,s with a stride of 4\,s.
+We use the \emph{Battery and Heating Data in Real Driving Cycles} dataset \cite{ieeedata}, which lists 72 trips of a BMW~i3 (60\,Ah). We use 70 trips, the number also used by the baseline paper \cite{jeng2025}: 32 in summer and 38 in winter, logged at 10\,Hz with 14 channels (10 conditioning signals and the four targets SOC, voltage, torque and acceleration). Each trip was cleaned (missing heater columns filled, trailing samples trimmed), smoothed with a ten-point moving average and downsampled to 1\,Hz. We scale every channel to $[-1,1]$ with a scaler fitted on training trips only, and cut windows of 256\,s with a stride of 4\,s.
 
 \textbf{Trip-level split.} Trips, not windows, are split 70/15/15 (seed 42), so that no window of a test trip is seen in training (Table~\ref{tab:split}). This is stricter than evaluating on overlapping windows from the same trips, and it makes our baseline numbers not directly comparable with those in \cite{jeng2025}. The test set contains only five trips per season, so all test metrics have high variance.
 
@@ -441,8 +441,8 @@ An AI assistant (Claude, Anthropic) was used for coding help, debugging and anal
 \bibitem{ulyanov2016instance} D. Ulyanov, A. Vedaldi, and V. Lempitsky, ``Instance normalization: The missing ingredient for fast stylization,'' arXiv:1607.08022, 2016.
 \bibitem{raissi2019pinn} M. Raissi, P. Perdikaris, and G. E. Karniadakis, ``Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations,'' \emph{J. Comput. Phys.}, vol. 378, pp. 686--707, 2019.
 \bibitem{yoon2019timegan} J. Yoon, D. Jarrett, and M. van der Schaar, ``Time-series generative adversarial networks,'' in \emph{Proc. NeurIPS}, 2019.
-\bibitem{senin2008dtw} P. Senin, ``Dynamic time warping algorithm review,'' Univ.\ Hawaii at Manoa, Honolulu, USA, Tech. Rep. 855, 2008.
-\bibitem{ieeedata} ``Battery and heating data for real driving cycles,'' IEEE DataPort, 2022. [Online]. Available: https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
+\bibitem{senin2008dtw} P. Senin, ``Dynamic time warping algorithm review,'' Information and Computer Science Dept., Univ.\ Hawaii at Manoa, Honolulu, USA, Dec. 2008.
+\bibitem{ieeedata} M. Steinstraeter, J. Buberger, and D. Trifonov, ``Battery and heating data in real driving cycles,'' IEEE DataPort, 2020, doi: 10.21227/6jr9-5235. [Online]. Available: https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
 \end{thebibliography}
 
 \end{document}

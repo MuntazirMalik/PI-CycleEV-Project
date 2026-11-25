@@ -16,7 +16,7 @@ Machine Learning (Fall 2026), Department of Computer Science, BUITEMS. Instructo
 All results in the notebook and in the paper come from the runs saved in `results/` and `models/`. The baseline was trained for 50 epochs (the base paper used 800) and each CycleGAN run for 100 epochs, once, with seed 42. The E3 run was continued from its epoch-70 checkpoint and the `abl_no_range` run from its epoch-20 checkpoint after Colab sessions ended; only the generators were restored, so the discriminators and optimisers were re-initialised at that point.
 
 ## Dataset
-Battery and Heating Data for Real Driving Cycles (IEEE DataPort): https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
+Battery and Heating Data in Real Driving Cycles (IEEE DataPort): https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
 
 Download the **measurement data** zip (not the simulation data) and place the trip CSVs (`TripA01.csv` ... `TripB38.csv`, 70 trips: 32 summer, 38 winter) in `PI_CycleEV_Project/dataset/`, or put the zip anywhere inside `PI_CycleEV_Project/` and Section 01 unpacks it. The dataset is not included in this submission.
 
