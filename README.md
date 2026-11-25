@@ -27,6 +27,9 @@ requirements.txt
 README.md
 results/   metrics, histories, figures, JSON summaries (full run)
 models/    final generator weights (see note on size below)
+diagrams/  original draw.io diagrams (.drawio) with PNG previews
+paper/     LaTeX source (IEEEtran) and figures of the paper
+slides/    presentation (PowerPoint)
 ```
 
 ## How to run
