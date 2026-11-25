@@ -26,11 +26,12 @@ PI_CycleEV_Project_final.ipynb   the single end-to-end notebook (12 sections)
 requirements.txt
 README.md
 results/   metrics, histories, figures, JSON summaries (full run)
-models/    final generator weights (see note on size below)
+models/    final generator weights (not in the ZIP; Drive link below)
 diagrams/  original draw.io diagrams (.drawio) with PNG previews
-paper/     LaTeX source (IEEEtran) and figures of the paper
-slides/    presentation (PowerPoint)
+paper/     LaTeX source (IEEEtran) and figures of the paper (GitHub repository only)
+slides/    presentation (PowerPoint) (GitHub repository only)
 ```
+The paper and the slides are submitted separately; the implementation ZIP contains the notebook, README, requirements, `results/` and `diagrams/`.
 
 ## How to run
 1. Open `PI_CycleEV_Project_final.ipynb` in Google Colab and choose a **GPU runtime**.
