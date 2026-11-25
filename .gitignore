@@ -1,0 +1,10 @@
+dataset/
+models/
+_archive/
+*.weights.h5
+*.h5
+*_test*
+__pycache__/
+.ipynb_checkpoints/
+*.aux
+*.log
